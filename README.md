@@ -1,1 +1,1 @@
-# Example of subdomain
+# Example custom subdomain on GitHub Pages
